@@ -12,5 +12,5 @@ If you just cloned the repo, run
 yarn add jest @babel/cli @babel/core @babel/preset-env regenerator-runtime
 yarn test
 ```
-<sup><a href='/MachineSetup.windows.ps1#L11-L14' title='Snippet source file'>snippet source</a> | <a href='#snippet-add_es6' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/MachineSetup.windows.ps1#L12-L15' title='Snippet source file'>snippet source</a> | <a href='#snippet-add_es6' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
