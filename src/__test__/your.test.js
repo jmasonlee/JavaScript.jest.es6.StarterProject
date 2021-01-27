@@ -1,4 +1,4 @@
-import { hello } from '../src/yourCode'
+import { hello } from '../yourCode'
 
 describe('hello', () => {
     it('should greet the tester', () => {
