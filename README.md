@@ -6,7 +6,4 @@ In powershell you can setup from a completely fresh windows machine by running l
 
 ## Setting up project
 If you just cloned the repo, run 
-```
-yarn add jest @babel/cli @babel/core @babel/preset-env regenerator-runtime
-yarn test
-```
+snippet: add_es6
