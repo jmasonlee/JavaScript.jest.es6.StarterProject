@@ -1,6 +1,7 @@
 
 # How to run this file:
-#  PS> iwr -useb https://raw.githubusercontent.com/jmasonlee/JavaScript.jest.es6.StarterProject/MachineSetup.windows.ps1 | iex
+#  PS> iwr -useb https://raw.githubusercontent.com/jmasonlee/JavaScript.jest.es6.StarterProject/main/MachineSetup.windows.ps1 | iex
+                 
 
 iwr -useb https://raw.githubusercontent.com/JayBazuzi/machine-setup/main/windows.ps1 | iex
 iwr -useb https://raw.githubusercontent.com/JayBazuzi/machine-setup/main/javascript-webstorm.ps1 | iex
