@@ -1,5 +1,3 @@
-const hello = (name) => {
+export default (name) => {
     return `hello ${name}`
 };
-
-module.exports = { hello };

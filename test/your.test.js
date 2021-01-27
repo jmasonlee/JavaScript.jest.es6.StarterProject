@@ -1,5 +1,5 @@
-const {hello} = require('../src/yourCode');
+import hello from '../src/yourCode'
 
 test('hello', () => {
-    expect(hello('Fiona')).toBe(`hello FixMe!`); 
+    expect(hello('Fiona')).toBe(`hello FixMe!`);
 });
