@@ -6,4 +6,11 @@ In powershell you can setup from a completely fresh windows machine by running l
 
 ## Setting up project
 If you just cloned the repo, run 
-snippet: add_es6
+<!-- snippet: add_es6 -->
+<a id='snippet-add_es6'></a>
+```ps1
+yarn add jest @babel/cli @babel/core @babel/preset-env regenerator-runtime
+yarn test
+```
+<sup><a href='/MachineSetup.windows.ps1#L11-L14' title='Snippet source file'>snippet source</a> | <a href='#snippet-add_es6' title='Start of snippet'>anchor</a></sup>
+<!-- endSnippet -->
